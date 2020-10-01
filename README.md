@@ -1,3 +1,3 @@
-2018 
+2018
 # GDP_and_CO2
 HELLO WORLD!
